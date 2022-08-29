@@ -28,5 +28,16 @@
 .evidenza {
     color: #81cef0;
 }
+#didascalia {
+    font-size: 10px;
+    margin-bottom: 2%;
+}
+.importante {
+    background-color:yellow
+}
+.elenco {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
 
 /* background-image: url(img/logo.svg); */
