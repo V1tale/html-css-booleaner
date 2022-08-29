@@ -39,5 +39,18 @@
     margin-top: 20px;
     margin-bottom: 20px;
 }
-
-/* background-image: url(img/logo.svg); */
+table {
+    border-spacing: 0px;
+    table-layout:fixed;
+    width: 100%;
+}
+thead {
+    background-color: #23aae5;
+text-align: left;
+}
+table th {
+    color: white;
+}
+.azzurro{
+    background-color: #81cef0;
+}
