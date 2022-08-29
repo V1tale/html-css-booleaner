@@ -2,8 +2,8 @@
     margin: 0px;
 }
 main, footer {
-    padding-left: 10px;
-    padding-right: 10px;
+    padding-left: 10%;
+    padding-right: 10%;
 }
 .background {
     background-color: #4ea0ff;
@@ -14,7 +14,7 @@ main, footer {
 #logo {
     width: 250px;
     margin-top: 30px;
-    padding-left: 5px;
+    padding-left: 10%;
 }
  #titolo {
     font-size: 20px;
