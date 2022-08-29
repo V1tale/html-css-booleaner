@@ -58,3 +58,29 @@ table th {
     margin-top: 20px;
     margin-bottom: 20px;
 }
+footer p {
+    color:rgb(148, 148, 148)
+}
+.aggiunta1 {
+    margin-top:5px;
+    margin-bottom:0px;
+    width: 250px;
+    height: 180px;
+    background-image: url(../img/monitor.jpg);
+    background-size: contain;
+    background-repeat:no-repeat;
+}
+.aggiunta2 {
+    margin-top: 0px;
+    width: 250px;
+    height: 250px;
+    background-image: url(../img/graph.jpg);
+    background-size: contain;
+    background-repeat:no-repeat;
+}
+.infoto {
+    color: white;
+    font-family:'Times New Roman', Times, serif;
+    font-size: 30px;
+    padding: 3px;
+}
